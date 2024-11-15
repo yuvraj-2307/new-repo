@@ -1,3 +1,67 @@
-P {
-    color:red;
+/*#outer 
+{
+    background-color: black;
+    height: 560px;
+    width: 150px;
+    padding: 25px;
+}
+#i1
+{
+    background-color: red;
+    border-radius: 50px;
+    height: 20%;
+    padding: 25px;
+}
+#i2
+{
+    background-color: green;
+    border-radius: 50px;
+    height: 20%;
+    padding: 25px;
+}
+
+#i3
+{
+    background-color: orange;
+    border-radius: 50px;
+    height: 20%;
+    padding: 25px;
+*/
+*{
+padding: 0;
+margin: 0;
+
+}
+#navbar
+{
+    height: 60px;
+    background-color: black;
+}
+button{
+    background-color: #f08804;
+}
+#logo {
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+    color: white;
+}
+.cb{
+    height: 100px;
+    width: 1000px;
+    border:2px solid;
+position: sticky;
+
+}
+#contant
+{
+    height: 620px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
 }
